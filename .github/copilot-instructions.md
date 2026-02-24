@@ -3,7 +3,7 @@
 ## Branching
 
 - **Never commit directly to `main`.** Always create a feature branch before making changes.
-- If you are not already on a feature branch realted to your work, create one before doing any work.
+- If you are not already on a feature branch related to your work, create one before doing any work.
 
 ## Commits
 
